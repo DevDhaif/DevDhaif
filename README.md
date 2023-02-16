@@ -28,14 +28,20 @@
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <kdb> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </kdb> </a> </p>
 
 <br><br><br>
-<!--   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 
 <!-- <p><img  align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=devdhaif&show_icons=true&locale=en&layout=compact" alt="devdhaif" /></p> -->
 
-<img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react&show_icons=true&locale=en" alt="devdhaif" />
+<!-- <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react&show_icons=true&locale=en" alt="devdhaif" /> -->
 
-<img width="45%" align="right"  src="https://github-readme-streak-stats.herokuapp.com/?user=devdhaif&theme=react&show_icons=true&locale=en" alt="devdhaif" />
+
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<img width="100%" align="center"  src="https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react" alt="devdhaif" />
+
+<img width="100%" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=devdhaif&theme=react&show_icons=true&locale=en" alt="devdhaif" />
 
 
 <br><br><br><br><br>
