@@ -1,4 +1,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&show_icons=true&theme=react) -->
+
+
+
 <h1 align="center">Hi 👋, I'm Dhaifallah</h1>
 <h3 align="center">A software engineer & frontend developer.</h3>
 <br>
@@ -7,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [www.devdhaif.me](https://www.devdhaif.me/)
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **devdhaif@gmail.com**
 
@@ -39,10 +42,15 @@
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img width="100%" align="center"  src="https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react" alt="devdhaif" />
+<img width="100%" align="center"   src="https://github-readme-stats.vercel.app/api?username=DevDhaif&count_private=true&theme=react&show_icons=true&bg_color=00000000" alt="devdhaif" />
 
-<img width="100%" align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=devdhaif&theme=react&show_icons=true&locale=en" alt="devdhaif" />
 
+<br><br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDhaif)](https://github.com/devdhaif/github-readme-stats) -->
+
+<img width="60%" align="left"  src="https://github-readme-streak-stats.herokuapp.com/?user=devdhaif&count_private=true&theme=react&show_icons=true&bg_color=00000000" alt="devdhaif" />
+
+<img width="35%" align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDhaif&count_private=true&theme=react&show_icons=true&bg_color=00000000" alt="devdhaif" />
 
 <br><br><br><br><br>
 
