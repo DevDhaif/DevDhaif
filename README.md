@@ -67,6 +67,14 @@
 
 <br>
 
+<a href="https://github.com/kurt-liao/so-stats">
+<img
+height="200"
+src="https://so-stats-kurt-liao.vercel.app/api?user=18254538"
+/>
+</a>
+
+<br>
 
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDhaif&count_private=true&theme=react&show_icons=true&layout=compact&langs_count=6&bg_color=00000000" alt="devdhaif" />
 
@@ -81,10 +89,3 @@
 
 <!-- [![wakatime](https://wakatime.com/badge/user/27d3ec9f-a012-4175-b8a4-ec0693f49b3f.svg)](https://wakatime.com/@DevDhaif) -->
 
-
-<a href="https://github.com/kurt-liao/so-stats">
-<img
-height="200"
-src="https://so-stats-kurt-liao.vercel.app/api?user=18254538"
-/>
-</a>
