@@ -74,9 +74,6 @@ src="https://so-stats-kurt-liao.vercel.app/api?user=18254538"
 />
 </a>
 
-<br>
-
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDhaif&count_private=true&theme=react&show_icons=true&layout=compact&langs_count=6&bg_color=00000000" alt="devdhaif" />
 
 <br>
 
@@ -84,6 +81,10 @@ src="https://so-stats-kurt-liao.vercel.app/api?user=18254538"
 
 
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Devdhaif&count_private=true&theme=react&show_icons=true&layout=compact&langs_count=6&bg_color=00000000" />
+
+<br>
+
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDhaif&count_private=true&theme=react&show_icons=true&layout=compact&langs_count=6&bg_color=00000000" alt="devdhaif" />
 
 <!-- [![devdhaif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devdhaif)] -->
 
