@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Vuejs**
 
-- 👨‍💻 All of my projects are available at [www.devdhaif.me](https://www.devdhaif.me/)
+- 👨‍💻 All of my projects are available at [https://devdhaif.vercel.app/](https://devdhaif.vercel.app/)
 
 - 💬 Ask me about **React, Javascript**
 
